@@ -39,8 +39,6 @@ function Project() {
                     </a>
                 </Col>
             </Row>
-            <br />
-            <br />
             <Row>
                 <Col sm="12" md="6">
                     <p className="project-title">Tilungisa Auto</p>
